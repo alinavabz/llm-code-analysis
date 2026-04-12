@@ -1,7 +1,6 @@
 # Do Newer LLMs Do Better?
 ### Evaluating GPT-4o, Claude, and Gemini on Normal and Obfuscated Code Analysis
-
-**Course:** CP8320 — Program Analysis for Cybersecurity  
+ 
 **Institution:** Toronto Metropolitan University  
 **Supervisor:** Prof. Manar Alalfi  
 **Author:** Ali Navab Zadeh  
@@ -38,7 +37,7 @@ This project extends the work of Fang et al. (USENIX Security 2024) by evaluatin
 
 ## Project Structure
 
-CP8320 Project/
+llm-code-analysis/
 ├── prompts.py              # All 9 prompt functions
 ├── run_experiments.py      # API calls and experiment pipeline
 ├── evaluate.py             # BERTScore and cosine similarity evaluation
