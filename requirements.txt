@@ -1,0 +1,8 @@
+openai
+anthropic
+google-genai
+python-dotenv
+bert-score
+scikit-learn
+pandas
+matplotlib
